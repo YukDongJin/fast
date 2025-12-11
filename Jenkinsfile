@@ -9,7 +9,7 @@ pipeline {
         GIT_REPOSITORY_URL = 'https://github.com/YukDongJin/fast.git'
         GIT_CREDENTIONALS_ID = 'git_cre'
         
-        GIT_EMAIL = 'ydz3828@skuniv.com'
+        GIT_EMAIL = 'ydz3828@skuniv.ac.kr'
         GIT_NAME = 'YukDongJin'
         GIT_REPOSITORY_DEP = 'git@github.com:YukDongJin/deployment.git'
 
